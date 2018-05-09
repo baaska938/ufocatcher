@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SarwuuController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\SarwuuController.cs" Line="240" Column="1" />
+      <File FileName="..\C#hicheel\nom\lab6j24.cs" Line="11" Column="29" />
+      <File FileName="Assets\Scripts\ObjectAdding.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Scoring.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TriggerSens.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DownHeightSens.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

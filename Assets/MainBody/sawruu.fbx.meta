@@ -1,0 +1,99 @@
+fileFormatVersion: 2
+guid: 3814462fc401c5c4c91737ee0ee0022e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Sarwuu
+    100002: SarwuuLeft
+    100004: SarwuuRIght
+    100006: //RootNode
+    400000: Sarwuu
+    400002: SarwuuLeft
+    400004: SarwuuRIght
+    400006: //RootNode
+    2300000: Sarwuu
+    2300002: SarwuuLeft
+    2300004: SarwuuRIght
+    2300006: //RootNode
+    3300000: Sarwuu
+    3300002: SarwuuLeft
+    3300004: SarwuuRIght
+    3300006: //RootNode
+    4300000: SarwuuRIght
+    4300002: SarwuuLeft
+    4300004: Sarwuu
+    7400000: SarwuuRIght|SarwuuLeftAction
+    7400002: SarwuuRIght|SarwuuLeftAction.001
+    7400004: SarwuuRIght|SarwuuRIghtAction
+    7400006: SarwuuRIght|SarwuuRIghtAction.001
+    7400008: SarwuuLeft|SarwuuLeftAction
+    7400010: SarwuuLeft|SarwuuLeftAction.001
+    7400012: SarwuuLeft|SarwuuRIghtAction
+    7400014: SarwuuLeft|SarwuuRIghtAction.001
+    7400016: Sarwuu|SarwuuLeftAction
+    7400018: Sarwuu|SarwuuLeftAction.001
+    7400020: Sarwuu|SarwuuRIghtAction
+    7400022: Sarwuu|SarwuuRIghtAction.001
+    7400024: LeftOpen
+    7400026: LeftClose
+    7400028: SarwuuRIght|LeftClose
+    7400030: SarwuuRIght|LeftOpen
+    7400032: SarwuuLeft|LeftClose
+    7400034: SarwuuLeft|LeftOpen
+    7400036: Sarwuu|LeftClose
+    7400038: Sarwuu|LeftOpen
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
